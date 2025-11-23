@@ -20,7 +20,7 @@ const Footer = () => {
                 <ExternalLink className="h-4 w-4 group-hover:translate-x-0.5 transition-transform" />
                 Try the Models
               </a>
-              <a href="https://huggingface.co/ErebusTN/EGen_V1" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors group">
+              <a href="https://github.com/EGen-V" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors group">
                 <Github className="h-4 w-4" />
                 GitHub Profile
               </a>
